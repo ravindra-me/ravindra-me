@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi 👋, I'm Ravindra Singh, a Full Stack Developer ##
 
-<!--
-**ravindra-me/ravindra-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ravindra-me)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ravindra-singh-342946156/)
 
-Here are some ideas to get you started:
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ravindra_9454
+)](https://twitter.com/ravindra_9454)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ravindrarajpoot9628172@gmail.com)
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------------------------------------------------------------------------------------------------------------------------
+
+![Sudarshan github stats](https://github-readme-stats.vercel.app/api?username=ravindra-me&hide=["issues"]&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindra-me&layout=compact&theme=darcula&langs_count=10)
