@@ -1,4 +1,8 @@
-## Hi 👋, I'm Ravindra Singh, a Full Stack Developer ##
+
+## Hi 👋, 
+## About me
+I'm Ravindra Singh,I am a full-stack web developer with expertise in the MERN Stack.
+I am proficient in using ReactJS to build high quality design for the front-end and NodeJS to build scalable, robust, and functional back-end for applications. I am a quick learner and open to learning new technologies
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ravindra-me)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ravindra-singh-342946156/)
