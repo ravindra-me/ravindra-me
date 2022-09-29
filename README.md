@@ -12,8 +12,15 @@ I am proficient in using ReactJS to build high quality design for the front-end 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ravindrarajpoot9628172@gmail.com)
 &nbsp;
 
+### Skills ###
+----------------------------------------------------------------------------------------------------------------------------
+- Languages - **HTML, CSS ,JavaScript, TypeScript**
+- Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, Redux, NodeJS, ExpressJS and REST API,React Testing, JEST Test**
+- Databases/ODM: - **MySQL, MongoDB and Mongoose**
+- Tools: - **Git, Github, Developer Tool,Babel, Azure DevOps, Bitbucket**
+
 ----------------------------------------------------------------------------------------------------------------------------
 
-![Sudarshan github stats](https://github-readme-stats.vercel.app/api?username=ravindra-me&hide=["issues"]&show_icons=true)
+![Ravindra Singh github stats](https://github-readme-stats.vercel.app/api?username=ravindra-me&hide=["issues"]&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindra-me&layout=compact&theme=darcula&langs_count=10)
