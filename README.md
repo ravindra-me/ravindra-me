@@ -16,7 +16,7 @@ I am proficient in using ReactJS to build high quality design for the front-end 
 ----------------------------------------------------------------------------------------------------------------------------
 - Languages - **HTML, CSS ,JavaScript, TypeScript**
 - Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, Redux, NodeJS, ExpressJS and REST API,React Testing, JEST Test**
-- Databases/ODM: - **MySQL, MongoDB and Mongoose**
+- Databases/ODM: - **MongoDB and Mongoose**
 - Tools: - **Git, Github, Developer Tool,Babel, Azure DevOps, Bitbucket**
 
 ----------------------------------------------------------------------------------------------------------------------------
